@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsreeves. I am a 33 year old trying something new to me!
+- 👋 Hi, I’m @nsreeves. I am a 33 year old trying something new!
 - 👀 I’m interested in learning how to code professionally. 
 - 🌱 I’m currently learning Harvard's CS50 course to get started.
 - 💞️ I’m looking to collaborate on any project I can help or be a part of. 
