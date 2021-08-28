@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code professionally. 
 - 🌱 I’m currently learning Harvard's CS50 course to get started.
 - 💞️ I’m looking to collaborate on any project I can help or be a part of. 
-- 📫 How to reach me? You can reach me at www.linkedin.com/nsreeves.
+- 📫 How to reach me? You can reach me at https://www.linkedin.com/in/nsreeves/
 
 <!---
 nsreeves/nsreeves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
